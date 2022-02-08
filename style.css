@@ -1,0 +1,79 @@
+body{
+    padding: 0 100px;
+}
+section{
+    padding-bottom: 20px;
+}
+.logo{
+position: relative;
+width: 291.11px;
+height: 39.27px;
+}
+.main{
+    position: relative;
+    height: 600px;
+    padding: 0 100px;
+    background: #FFFBF0;
+}
+.model{
+    position: absolute;
+    width: 450px;
+    height: 500px;
+    right: 160px;
+    top: 80px;
+}
+.model-title{
+    position: absolute;
+    top: 180px;
+}
+.button{
+    font-size: 12px;
+    text-align: center;
+    height: 40px;
+    width: 120px;
+    color: whitesmoke;
+    background-image: linear-gradient(orange, #55b851 );
+    border-radius: 8px;
+    box-shadow: 10px 10px 50px white;
+}
+.Btnimg{
+    height: 20px;
+}
+.products{
+    margin-top: 50px;
+}
+.cards{
+    padding-top: 10px;
+}
+.buy{
+    padding: 0 30px;
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    color: #FABE4C;
+    ;
+}
+.icon{
+    width: 489px;
+    height: 135px;
+    border-radius: 10px;
+    box-shadow: 5px 5px  40px rgb(202, 197, 197);
+    padding-top: 30px;
+    margin-top: 10px;
+    display: flex;
+    padding-left: 10px;
+}
+.icon img{
+    width: 78px;
+    height: 82px;
+}
+.icon p{
+    font-size: 12px;
+}
+.shopping-img{
+    height: 350px;
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 150px;
+}
